@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>krakowskie sigmy</title>
+        <link rel="stylesheet" href="intel.css">
+        <style>
+            h1 {
+                color: blue;
+            }
+        </style>
+    </head>
+
+    <body 
+        <header>
+            <h1 style="color:green">krakowskie sigmy</h1>
+        </header>
+
+        <main>
+            <h1>Moje miasto</h1>
+            <h2>Moje miasto</h2>
+            <h3>Moje miasto</h3>
+            <h4>Moje miasto</h4>
+            <h5>Moje miasto</h5>
+
+            <p><b>Kraków</b> – miasto na prawach powiatu, położone w południowej Polsce nad Wisłą, drugie co do liczby mieszkańców.</p>
+            <hr>
+
+            <h2>Bambo (Murzynek Bambo...)</h2>
+            <p>
+                Murzynek Bambo w Afryce mieszka, <br>
+                Czarną ma skórę ten nasz koleżka. <br>
+                Uczy się pilnie przez całe ranki <br>
+                Ze swej murzyńskiej Pierwszej czytanki. <br>
+                A gdy do domu ze szkoły wraca, <br>
+                Psoci, figluje - to jego praca. <br>
+                Aż mama krzyczy: "Bambo, łobuzie!" <br>
+                A Bambo czarną nadyma buzię. <br>
+                Mama powiada: "Napij się mleka", <br>
+                A on na drzewo mamie ucieka. <br>
+                Mama powiada: "Chodź do kąpieli", <br>
+                A on się boi, że się wybieli. <br>
+                Lecz mama kocha swojego synka, <br>
+                Bo dobry chłopak z tego Murzynka. <br>
+                Szkoda, że Bambo czarny, wesoły, <br>
+                Nie chodzi razem z nami do szkoły. 
+            </p>
+
+            <a href="https://poezja.org/wz/Julian_Tuwim/24228/Bambo">pełna wersja wiersza</a>
+
+            <ul>
+                <li>Mapa</li>
+                <li>Ciekawe miejsca</li>
+                <li>Zabytki</li>
+                <li>Sport</li>
+            </ul>
+
+            <ol>
+                <li>Mapa</li>
+                <li>Ciekawe miejsca</li>
+                <li>Zabytki</li>
+                <li>Sport</li>
+            </ol>
+
+            <table border="1">
+                <tr>
+                    <th>Państwo</th>
+                    <th>Województwo</th>
+                    <th>Aglomeracja</th>
+                </tr>
+                <tr>
+                    <td>Polska</td>
+                    <td>Małopolskie</td>
+                    <td>Krakowska</td>
+                </tr>
+                <tr>
+                    <td>Polska</td>
+                    <td>Małopolskie</td>
+                    <td>Krakowska</td>
+                </tr>
+            </table>
+
+            <figure>
+                <img src="krakow.jpg" alt="obraz krk" width="300" height="200">
+                <figcaption>kisel</figcaption>
+            </figure>
+        </main>
+
+        <footer>
+			<p>Źródło: <a href="https://pl.wikipedia.org/wiki/Krak%C3%B3w" target="_blank">Wikipedia</a></p>
+			<p>x<sub>1</sub> + x<sub>2</sub> = 1000</p>
+			<p>Lekcja trwa: 14<sup>05</sup> - 14<sup>50</sup></p>
+			<p>&copy; 2024 3c2 kacper lesiewicz</p>
+		</footer>
+    </body>
+</html>
